@@ -10,7 +10,7 @@ import { FooterComponent } from "./components/footer/footer.component";
   templateUrl: './app.component.html'
 })
 export class AppComponent {
-  title = 'keivin';
+  title = 'portafolio';
   constructor(private router: Router) {
   }
 
